@@ -1,0 +1,6 @@
+
+bee	priya	tech	5
+
+ed	hk	nirali	5
+
+gcc	xyz	abs	5
